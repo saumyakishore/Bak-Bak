@@ -1,12 +1,5 @@
 {
-.appVersion = "1012";
-DisplayStrings = (
-"/dvmII_Anusvara   /dvmII_Anusvara.001   /dvmII_Anusvara.002   /dvmII_Anusvara.003   /dvmII_Anusvara.004  \012/dvmII_Reph   /dvmII_Reph.001   /dvmII_Reph.002   /dvmII_Reph.003   /dvmII_Reph.004  \012/dvmII_Reph_Anusvara   /dvmII_Reph_Anusvara.001   /dvmII_Reph_Anusvara.002   /dvmII_Reph_Anusvara.003   /dvmII_Reph_Anusvara.004  \012/dvmII.001  /dvmII.002  /dvmII.003   /dvmII.004",
-"/dvmII.001  /dvmII.002  /dvmII.003  /dvmII.004",
-"/dvDDA/dvDDHA/dvHA/dvDD_DDA/dvDD_DDHA/dvDD_VA/dvK_S_DDA/dvJ_DDA/dvNN_DDA/dvN_DDA/dvL_DDA/dvL_V_DDA/dvNN_DDHA/dvL_DDHA/dvN_HA/dvM_HA/dvEyelash_HA/dvL_HA/dvV_HA \012/dvCHA/dvCH_VA/dvC_CHA/dvNY_CHA/dvN_CHA/dvSH_CHA/dvC_CH_VA \012/dvNGA/dvLLA \012/dvTTHA/dvNN_TTHA/dvP_TTHA/dvL_TTHA/dvSS_TTHA/dvTTH_TTHA/dvTTH_VA \012",
-"/dvmU    /dvmUU    /dvmvR    /dvmvRR      /dvmvL    /dvmvLL"
-);
-copyright = "Copyright ￂﾩ 2016 by Struckby. All rights reserved.";
+.appVersion = "1021";
 customParameters = (
 {
 name = glyphOrder;
@@ -1036,12 +1029,11 @@ fl
 );
 }
 );
-date = "2016-05-23 16:22:07 +0000";
+date = "2017-05-21 05:43:47 +0000";
 designer = "Saumya Kishore and Sanchit Sawaria";
-designerURL = "http://struckby.co/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "Bakbak 22/3/17";
+familyName = "Bak-Bak";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem dev2 dflt;\012languagesystem deva dflt;\012";
@@ -4293,8 +4285,8 @@ nodes = (
 );
 }
 );
-width = 0;
 visible = 1;
+width = 0;
 }
 );
 unicode = 0943;
@@ -6264,8 +6256,8 @@ nodes = (
 );
 }
 );
-width = 569;
 visible = 1;
+width = 569;
 }
 );
 rightMetricsKey = dvmAA;
@@ -8008,8 +8000,8 @@ nodes = (
 );
 }
 );
-width = 478;
 visible = 1;
+width = 478;
 }
 );
 unicode = 091F;
@@ -11352,8 +11344,8 @@ width = 794;
 associatedMasterId = "632BC717-227E-41E7-B05B-9781150E6210";
 layerId = "2CB4FECA-E0DA-4E2B-BC28-50846FC156F3";
 name = "Regular Apr 1 16, 17:34";
-width = 799;
 visible = 1;
+width = 799;
 },
 {
 associatedMasterId = "632BC717-227E-41E7-B05B-9781150E6210";
@@ -12466,8 +12458,8 @@ nodes = (
 );
 }
 );
-width = 697;
 visible = 1;
+width = 697;
 }
 );
 rightMetricsKey = dvmAA;
@@ -13391,8 +13383,8 @@ nodes = (
 );
 }
 );
-width = 779;
 visible = 1;
+width = 779;
 }
 );
 rightMetricsKey = dvmAA;
@@ -14156,8 +14148,8 @@ nodes = (
 );
 }
 );
-width = 0;
 visible = 1;
+width = 0;
 }
 );
 unicode = 094D;
@@ -15348,8 +15340,8 @@ nodes = (
 );
 }
 );
-width = 651;
 visible = 1;
+width = 651;
 }
 );
 leftMetricsKey = dvKHA;
@@ -16836,8 +16828,8 @@ nodes = (
 );
 }
 );
-width = 542;
 visible = 1;
+width = 542;
 }
 );
 leftMetricsKey = dvLA;
@@ -17058,8 +17050,8 @@ nodes = (
 );
 }
 );
-width = 365;
 visible = 1;
+width = 365;
 }
 );
 leftMetricsKey = dvSSA;
@@ -17274,8 +17266,8 @@ nodes = (
 );
 }
 );
-width = 498;
 visible = 1;
+width = 498;
 }
 );
 leftMetricsKey = dvHA;
@@ -17978,8 +17970,8 @@ nodes = (
 );
 }
 );
-width = 888;
 visible = 1;
+width = 888;
 },
 {
 associatedMasterId = "632BC717-227E-41E7-B05B-9781150E6210";
@@ -21372,8 +21364,8 @@ nodes = (
 );
 }
 );
-width = 559;
 visible = 1;
+width = 559;
 }
 );
 leftMetricsKey = dvSSA;
@@ -22791,8 +22783,8 @@ nodes = (
 );
 }
 );
-width = 322;
 visible = 1;
+width = 322;
 }
 );
 },
@@ -23264,8 +23256,8 @@ nodes = (
 );
 }
 );
-width = 443;
 visible = 1;
+width = 443;
 }
 );
 rightMetricsKey = dvJ;
@@ -23681,8 +23673,8 @@ nodes = (
 );
 }
 );
-width = 506;
 visible = 1;
+width = 506;
 }
 );
 },
@@ -23778,8 +23770,8 @@ nodes = (
 );
 }
 );
-width = 340;
 visible = 1;
+width = 340;
 }
 );
 },
@@ -24698,8 +24690,8 @@ nodes = (
 );
 }
 );
-width = 542;
 visible = 1;
+width = 542;
 }
 );
 leftMetricsKey = dvLA;
@@ -25015,8 +25007,8 @@ nodes = (
 );
 }
 );
-width = 303;
 visible = 1;
+width = 303;
 }
 );
 },
@@ -25490,8 +25482,8 @@ nodes = (
 );
 }
 );
-width = 695;
 visible = 1;
+width = 695;
 },
 {
 associatedMasterId = "632BC717-227E-41E7-B05B-9781150E6210";
@@ -25569,8 +25561,8 @@ nodes = (
 );
 }
 );
-width = 695;
 visible = 1;
+width = 695;
 }
 );
 },
@@ -34499,8 +34491,8 @@ nodes = (
 );
 }
 );
-width = 1184;
 visible = 1;
+width = 1184;
 }
 );
 },
@@ -45916,8 +45908,8 @@ transform = "{1, 0, 0, 1, 363, 0}";
 );
 layerId = "4837941E-2E5F-426F-9C8B-F0D27FDFA9D6";
 name = "Regular May 12 16, 20:00";
-width = 1025;
 visible = 1;
+width = 1025;
 }
 );
 },
@@ -62335,8 +62327,8 @@ nodes = (
 );
 }
 );
-width = 277;
 visible = 1;
+width = 277;
 }
 );
 },
@@ -65184,8 +65176,8 @@ nodes = (
 );
 }
 );
-width = 525;
 visible = 1;
+width = 525;
 }
 );
 leftMetricsKey = dvHA;
@@ -65393,8 +65385,8 @@ nodes = (
 );
 }
 );
-width = 529;
 visible = 1;
+width = 529;
 }
 );
 leftMetricsKey = dvHA;
@@ -92165,48 +92157,46 @@ name = Regular;
 );
 kerning = {
 "632BC717-227E-41E7-B05B-9781150E6210" = {
-V = {
-period = -70;
-comma = -70;
-};
-"@MMK_L_a" = {
-period = -20;
-comma = -20;
-};
-"@MMK_L_W" = {
-period = -20;
-comma = -20;
-};
-"@MMK_L_w" = {
-period = -20;
-comma = -20;
-};
-f = {
-period = -40;
-comma = -40;
-};
-"@MMK_L_r" = {
-period = -50;
-comma = -50;
-};
-"@MMK_L_Y" = {
-period = -70;
-comma = -70;
-};
-"@MMK_L_y" = {
-period = -40;
-comma = -40;
-};
 "@MMK_L_A" = {
 quotesingle = -50;
 };
 "@MMK_L_L" = {
 quotesingle = -90;
 };
+"@MMK_L_W" = {
+comma = -20;
+period = -20;
+};
+"@MMK_L_Y" = {
+comma = -70;
+period = -70;
+};
+"@MMK_L_a" = {
+comma = -20;
+period = -20;
+};
+"@MMK_L_r" = {
+comma = -50;
+period = -50;
+};
+"@MMK_L_w" = {
+comma = -20;
+period = -20;
+};
+"@MMK_L_y" = {
+comma = -40;
+period = -40;
+};
+V = {
+comma = -70;
+period = -70;
+};
+f = {
+comma = -40;
+period = -40;
 };
 };
-manufacturer = Struckby;
-manufacturerURL = "http://struckby.co/";
+};
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {

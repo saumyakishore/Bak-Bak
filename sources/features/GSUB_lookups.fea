@@ -857,7 +857,7 @@ lookup blws {
 lookup psts {
 
   sub
-    @BASES_FOR_LONG_mI
+    @BASES_ALIVE
     [ dvmII
       dvmII_Reph
       dvmII_Anusvara
